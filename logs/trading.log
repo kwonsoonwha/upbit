@@ -1,0 +1,1306 @@
+2025-01-17 14:50:01,639 - INFO - 데드 크로스 발생: KRW-BTC
+2025-01-17 14:50:02,870 - INFO - 데드 크로스 발생: KRW-BTC
+2025-01-17 14:50:04,090 - INFO - 데드 크로스 발생: KRW-BTC
+2025-01-17 14:50:05,320 - INFO - 데드 크로스 발생: KRW-BTC
+2025-01-17 14:50:06,552 - INFO - 데드 크로스 발생: KRW-BTC
+2025-01-17 14:50:07,791 - INFO - 데드 크로스 발생: KRW-BTC
+2025-01-17 14:50:09,026 - INFO - 데드 크로스 발생: KRW-BTC
+2025-01-17 14:50:10,230 - INFO - 데드 크로스 발생: KRW-BTC
+2025-01-17 14:50:11,457 - INFO - 데드 크로스 발생: KRW-BTC
+2025-01-17 14:50:12,703 - INFO - 데드 크로스 발생: KRW-BTC
+2025-01-17 14:50:13,932 - INFO - 데드 크로스 발생: KRW-BTC
+2025-01-17 14:50:15,161 - INFO - 데드 크로스 발생: KRW-BTC
+2025-01-17 14:50:16,397 - INFO - 데드 크로스 발생: KRW-BTC
+2025-01-17 14:58:18,100 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:18,165 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:58:18,221 - INFO - KRW-BTC 현재가 조회: 149232000.0
+2025-01-17 14:58:19,091 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:19,158 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:58:19,213 - INFO - KRW-BTC 현재가 조회: 149200000.0
+2025-01-17 14:58:20,096 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:20,159 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:58:20,210 - INFO - KRW-BTC 현재가 조회: 149200000.0
+2025-01-17 14:58:21,088 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:21,153 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:58:21,202 - INFO - KRW-BTC 현재가 조회: 149200000.0
+2025-01-17 14:58:22,086 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:22,170 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:58:22,220 - INFO - KRW-BTC 현재가 조회: 149200000.0
+2025-01-17 14:58:22,361 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:23,087 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:23,158 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:58:23,209 - INFO - KRW-BTC 현재가 조회: 149200000.0
+2025-01-17 14:58:24,096 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:24,158 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:58:24,216 - INFO - KRW-BTC 현재가 조회: 149192000.0
+2025-01-17 14:58:25,098 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:25,167 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:58:25,220 - INFO - KRW-BTC 현재가 조회: 149192000.0
+2025-01-17 14:58:26,086 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:26,167 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:58:26,218 - INFO - KRW-BTC 현재가 조회: 149192000.0
+2025-01-17 14:58:27,106 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:27,188 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:58:27,245 - INFO - KRW-BTC 현재가 조회: 149192000.0
+2025-01-17 14:58:28,094 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:28,157 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:58:28,206 - INFO - KRW-BTC 현재가 조회: 149192000.0
+2025-01-17 14:58:29,079 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:29,151 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:58:29,202 - INFO - KRW-BTC 현재가 조회: 149192000.0
+2025-01-17 14:58:30,098 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:30,167 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:58:30,215 - INFO - KRW-BTC 현재가 조회: 149192000.0
+2025-01-17 14:58:31,101 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:31,167 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:58:31,213 - INFO - KRW-BTC 현재가 조회: 149192000.0
+2025-01-17 14:58:32,098 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:32,167 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:58:32,218 - INFO - KRW-BTC 현재가 조회: 149192000.0
+2025-01-17 14:58:33,095 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:33,160 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:58:33,212 - INFO - KRW-BTC 현재가 조회: 149200000.0
+2025-01-17 14:58:34,105 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:34,166 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:58:34,220 - INFO - KRW-BTC 현재가 조회: 149200000.0
+2025-01-17 14:58:35,100 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:35,162 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:58:35,218 - INFO - KRW-BTC 현재가 조회: 149200000.0
+2025-01-17 14:58:36,083 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:36,142 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:58:36,195 - INFO - KRW-BTC 현재가 조회: 149232000.0
+2025-01-17 14:58:37,098 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:37,158 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:58:37,199 - INFO - KRW-BTC 현재가 조회: 149232000.0
+2025-01-17 14:58:38,088 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:38,154 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:58:38,194 - INFO - KRW-BTC 현재가 조회: 149232000.0
+2025-01-17 14:58:39,095 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:39,153 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:58:39,199 - INFO - KRW-BTC 현재가 조회: 149232000.0
+2025-01-17 14:58:40,088 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:40,156 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:58:40,201 - INFO - KRW-BTC 현재가 조회: 149232000.0
+2025-01-17 14:58:41,098 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:41,162 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:58:41,215 - INFO - KRW-BTC 현재가 조회: 149232000.0
+2025-01-17 14:58:42,083 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:42,145 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:58:42,189 - INFO - KRW-BTC 현재가 조회: 149232000.0
+2025-01-17 14:58:43,095 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:43,156 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:58:43,200 - INFO - KRW-BTC 현재가 조회: 149232000.0
+2025-01-17 14:58:44,090 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:44,150 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:58:44,193 - INFO - KRW-BTC 현재가 조회: 149232000.0
+2025-01-17 14:58:45,089 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:45,151 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:58:45,203 - INFO - KRW-BTC 현재가 조회: 149232000.0
+2025-01-17 14:58:46,086 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:46,145 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:58:46,189 - INFO - KRW-BTC 현재가 조회: 149232000.0
+2025-01-17 14:58:47,081 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:47,144 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:58:47,191 - INFO - KRW-BTC 현재가 조회: 149232000.0
+2025-01-17 14:58:48,083 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:48,139 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:58:48,192 - INFO - KRW-BTC 현재가 조회: 149232000.0
+2025-01-17 14:58:49,088 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:49,142 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:58:49,186 - INFO - KRW-BTC 현재가 조회: 149232000.0
+2025-01-17 14:58:50,098 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:50,155 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:58:50,211 - INFO - KRW-BTC 현재가 조회: 149232000.0
+2025-01-17 14:58:51,087 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:51,144 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:58:51,195 - INFO - KRW-BTC 현재가 조회: 149232000.0
+2025-01-17 14:58:52,085 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:52,142 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:58:52,188 - INFO - KRW-BTC 현재가 조회: 149232000.0
+2025-01-17 14:58:53,096 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:53,173 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:58:53,222 - INFO - KRW-BTC 현재가 조회: 149232000.0
+2025-01-17 14:58:54,089 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:54,145 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:58:54,199 - INFO - KRW-BTC 현재가 조회: 149232000.0
+2025-01-17 14:58:55,089 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:55,157 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:58:55,204 - INFO - KRW-BTC 현재가 조회: 149232000.0
+2025-01-17 14:58:56,082 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:56,135 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:58:56,181 - INFO - KRW-BTC 현재가 조회: 149232000.0
+2025-01-17 14:58:57,098 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:57,165 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:58:57,203 - INFO - KRW-BTC 현재가 조회: 149232000.0
+2025-01-17 14:58:58,085 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:58,142 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:58:58,193 - INFO - KRW-BTC 현재가 조회: 149232000.0
+2025-01-17 14:58:59,075 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:58:59,132 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:58:59,181 - INFO - KRW-BTC 현재가 조회: 149232000.0
+2025-01-17 14:59:00,080 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:59:00,153 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:59:00,199 - INFO - KRW-BTC 현재가 조회: 149232000.0
+2025-01-17 14:59:01,108 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:59:01,178 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:59:01,222 - INFO - KRW-BTC 현재가 조회: 149232000.0
+2025-01-17 14:59:02,096 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:59:02,155 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:59:02,199 - INFO - KRW-BTC 현재가 조회: 149200000.0
+2025-01-17 14:59:03,099 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:59:03,155 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:59:03,202 - INFO - KRW-BTC 현재가 조회: 149200000.0
+2025-01-17 14:59:04,078 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:59:04,135 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:59:04,188 - INFO - KRW-BTC 현재가 조회: 149232000.0
+2025-01-17 14:59:05,100 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:59:05,174 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:59:05,223 - INFO - KRW-BTC 현재가 조회: 149232000.0
+2025-01-17 14:59:06,101 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:59:06,164 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:59:06,214 - INFO - KRW-BTC 현재가 조회: 149232000.0
+2025-01-17 14:59:07,087 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:59:07,161 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:59:07,210 - INFO - KRW-BTC 현재가 조회: 149232000.0
+2025-01-17 14:59:08,086 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:59:08,145 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:59:08,197 - INFO - KRW-BTC 현재가 조회: 149232000.0
+2025-01-17 14:59:09,099 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:59:09,181 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:59:09,234 - INFO - KRW-BTC 현재가 조회: 149232000.0
+2025-01-17 14:59:10,092 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:59:10,156 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:59:10,211 - INFO - KRW-BTC 현재가 조회: 149232000.0
+2025-01-17 14:59:11,085 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:59:11,150 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:59:11,210 - INFO - KRW-BTC 현재가 조회: 149232000.0
+2025-01-17 14:59:12,105 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:59:12,168 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:59:12,233 - INFO - KRW-BTC 현재가 조회: 149232000.0
+2025-01-17 14:59:13,094 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:59:13,156 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:59:13,208 - INFO - KRW-BTC 현재가 조회: 149177000.0
+2025-01-17 14:59:14,092 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:59:14,151 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:59:14,209 - INFO - KRW-BTC 현재가 조회: 149177000.0
+2025-01-17 14:59:15,100 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:59:15,165 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:59:15,217 - INFO - KRW-BTC 현재가 조회: 149177000.0
+2025-01-17 14:59:16,087 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:59:16,150 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:59:16,203 - INFO - KRW-BTC 현재가 조회: 149177000.0
+2025-01-17 14:59:17,098 - INFO - KRW 잔고 조회: 0.74848109
+2025-01-17 14:59:17,167 - INFO - BTC 잔고 조회: 0.0
+2025-01-17 14:59:17,219 - INFO - KRW-BTC 현재가 조회: 149177000.0
+2025-01-17 15:01:24,694 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:01:24,696 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:01:25,694 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:01:25,694 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:01:26,431 - ERROR - 잔고 조회 중 오류 발생: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:01:26,431 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 34, in get_balance
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:01:26,695 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:01:26,695 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:01:27,694 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:01:27,695 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:01:28,694 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:01:28,695 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:01:29,694 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:01:29,695 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:01:30,694 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:01:30,694 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:01:31,694 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:01:31,695 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:01:32,693 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:01:32,694 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:01:33,694 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:01:33,695 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:01:34,694 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:01:34,695 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:01:35,694 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:01:35,695 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:01:36,694 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:01:36,694 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:01:37,694 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:01:37,694 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:01:38,693 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:01:38,694 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:01:39,693 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:01:39,694 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:01:40,694 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:01:40,695 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:01:41,693 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:01:41,694 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:01:42,695 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:01:42,695 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:01:43,693 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:01:43,694 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:01:44,693 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:01:44,694 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:01:45,694 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:01:45,695 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:01:46,694 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:01:46,695 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:01:47,695 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:01:47,695 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:01:48,693 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:01:48,694 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:01:49,694 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:01:49,695 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:01:50,694 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:01:50,695 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:01:51,693 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:01:51,693 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:01:52,694 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:01:52,694 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:01:53,694 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:01:53,695 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:01:54,693 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:01:54,693 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:01:55,695 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:01:55,695 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:01:56,694 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:01:56,694 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:01:57,699 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:01:57,699 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:01:58,693 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:01:58,693 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:01:59,695 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:01:59,695 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:00,693 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:00,693 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:01,695 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:01,695 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:02,693 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:02,694 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:03,694 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:03,694 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:04,693 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:04,694 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:05,695 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:05,695 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:06,693 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:06,693 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:07,694 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:07,694 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:08,694 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:08,694 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:09,693 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:09,694 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:10,698 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:10,698 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:11,694 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:11,695 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:12,693 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:12,693 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:13,694 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:13,695 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:14,693 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:14,694 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:15,695 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:15,696 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    accounts = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:16,696 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:16,697 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    if not response:
+               ^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:17,696 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:17,697 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    if not response:
+               ^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:18,693 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:18,694 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    if not response:
+               ^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:19,694 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:19,694 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    if not response:
+               ^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:20,700 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:20,701 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    if not response:
+               ^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:21,695 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:21,696 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    if not response:
+               ^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:22,700 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:22,701 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 101, in get_accounts
+    if not response:
+               ^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:27,857 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:27,858 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:28,861 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:28,862 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:29,855 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:29,855 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:30,865 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:30,866 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:31,853 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:31,854 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:32,861 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:32,862 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:33,853 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:33,853 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:34,222 - INFO - Access Key: 2LE0OHp2...
+2025-01-17 15:02:34,222 - INFO - Secret Key: lP4i9mvw...
+2025-01-17 15:02:34,318 - INFO - KRW 잔고 조회 결과: 0.74848109
+2025-01-17 15:02:34,853 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:34,853 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:35,857 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:35,857 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:36,855 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:36,855 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:37,856 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:37,857 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:38,850 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:38,851 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:39,855 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:39,855 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:40,862 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:40,862 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:41,859 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:41,859 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:42,852 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:42,853 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:43,860 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:43,860 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:44,852 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:44,853 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:45,857 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:45,857 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:46,863 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:46,863 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:47,860 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:47,860 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:48,856 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:48,857 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:49,849 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:49,850 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:50,856 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:50,857 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:51,865 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:51,866 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:52,862 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:52,862 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:53,855 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:53,855 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:54,860 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:54,861 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:55,853 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:55,853 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:56,863 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:56,863 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:57,852 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:57,853 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:58,862 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:58,862 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:02:59,859 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:02:59,860 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:00,862 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:00,863 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:01,864 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:01,864 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:02,854 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:02,855 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:03,856 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:03,857 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:04,853 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:04,853 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:05,862 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:05,862 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:06,856 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:06,857 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:07,860 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:07,860 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:08,855 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:08,855 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:09,863 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:09,863 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:10,857 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:10,858 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:11,861 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:11,862 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:12,858 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:12,859 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:13,862 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:13,862 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:14,855 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:14,855 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:15,862 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:15,863 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:16,859 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:16,859 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:17,851 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:17,852 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:18,862 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:18,862 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:19,854 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:19,855 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:20,860 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:20,861 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:21,856 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:21,856 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:22,862 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:22,863 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:23,855 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:23,856 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:24,861 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:24,862 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:25,857 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:25,857 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:26,861 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:26,861 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:27,857 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:27,857 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:28,853 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:28,854 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:29,860 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:29,861 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:30,864 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:30,864 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:31,860 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:31,860 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:32,854 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:32,854 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:33,862 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:33,862 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:34,854 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:34,855 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:35,861 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:35,861 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:36,857 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:36,857 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:37,863 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:37,863 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:38,855 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:38,856 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:39,855 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:39,855 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:40,454 - INFO - Access Key: 2LE0OHp2...
+2025-01-17 15:03:40,455 - INFO - Secret Key: lP4i9mvw...
+2025-01-17 15:03:40,542 - INFO - KRW 잔고 조회 결과: 0.74848109
+2025-01-17 15:03:40,855 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:40,856 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:41,862 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:41,862 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:42,855 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:42,856 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:43,861 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:43,861 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:44,853 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:44,853 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:45,856 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:45,856 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:46,855 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:46,856 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:47,856 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:47,856 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:48,855 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:48,856 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:49,860 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:49,860 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:50,855 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:50,856 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:51,861 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:51,862 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:52,856 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:52,856 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:53,859 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:53,859 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:54,862 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:54,862 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:55,857 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:55,857 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:56,861 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:56,861 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:57,861 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:57,862 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:58,860 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:58,860 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:03:59,861 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:03:59,862 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:04:00,855 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:04:00,855 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:04:01,861 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:04:01,862 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:04:02,857 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:04:02,858 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:04:03,862 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:04:03,862 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
+2025-01-17 15:04:04,852 - ERROR - 계좌 정보 조회 중 오류: 'Upbit' object has no attribute 'get_accounts'
+2025-01-17 15:04:04,852 - ERROR - Traceback (most recent call last):
+  File "C:\Users\aasd\Desktop\coin\modules\trader.py", line 98, in get_accounts
+    response = self.upbit.get_accounts()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Upbit' object has no attribute 'get_accounts'
+
